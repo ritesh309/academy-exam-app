@@ -52,7 +52,7 @@
   }
 
   .option {
-    background-color: grayscale($color: #137785);
+    background-color: grayscale($color: $blue);
     border-radius: $button-radius;
     color: $white;
     cursor: pointer;
