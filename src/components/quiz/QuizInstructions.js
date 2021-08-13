@@ -8,7 +8,7 @@ import options from '../../assets/img/options.PNG';
 
 const QuizInstructions = () => (
     <Fragment>
-        <Helmet><title>Quiz - Instructions</title></Helmet>
+        <Helmet><title>Exam - Instructions</title></Helmet>
         <div className="instructions container">
             <h1>Important ! Instructions </h1>
             <p>Ensure you read this guide from start to finish.</p>

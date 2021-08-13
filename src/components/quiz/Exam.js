@@ -339,7 +339,7 @@ class Exam extends Component {
 
         return (
             <Fragment>
-                <Helmet><title>Exam</title></Helmet>
+                <Helmet><title>Exam -Mode </title></Helmet>
                 <Fragment>
                     {/* <audio ref={this.correctSound} src={correctNotification}></audio>
                     <audio ref={this.wrongSound} src={wrongNotification}></audio> */}

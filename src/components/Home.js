@@ -4,13 +4,13 @@ import { Link } from 'react-router-dom';
 
 const Home = () => (
     <Fragment>
-        <Helmet><title>Home - Quiz App</title></Helmet>
+        <Helmet><title>Home - Exam App</title></Helmet>
         <div id="home">
             <section>
                 <div style={{ textAlign: 'center' }}>
                     <span className="mdi mdi-cube-outline cube"></span>
                 </div>
-                <h1>Quiz App</h1>
+                <h1>Exam App</h1>
                 <div className="play-button-container">
                     <ul>
                         <li><Link className="play-button" to="/play/instructions">Start Exam</Link></li>
